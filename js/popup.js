@@ -11,4 +11,9 @@ $(document).ready(function(){
         return encodeURIComponent(str).replace(/[!'()]/g, escape).replace(/\*/g, "%2A");
     }
 
+    $('#apilink').on('click', function(){
+        chrome.tabs.create({url: $(this).attr('href')});
+        return false;
+    });
+
 });

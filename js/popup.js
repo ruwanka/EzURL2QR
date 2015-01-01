@@ -1,3 +1,4 @@
+'use strict'
 $(document).ready(function(){
 
     chrome.tabs.getSelected(null, function(tab) {

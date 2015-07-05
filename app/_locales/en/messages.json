@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "EzURL2QR",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Simple chrome extension to convert URL to QR code",
+    "description": "Simple chrome extension for converting urls to QR code instantly. Extension can capture any url you visit and quickly convert it to a QR code which can be captured by any device."
+  }
+}

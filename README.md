@@ -5,4 +5,4 @@ Simple chrome extension for converting urls to QR code instantly. Extension can 
 
 Note: This extension uses goqr.me API to generate the QR code
 
-<a target="_blank" href="https://chrome.google.com/webstore/detail/ezurl2qr/degmoeploiddfcgeoeobihjbchfnjlmp"><img alt="Try it now" src="https://raw.github.com/GoogleChrome/chrome-app-samples/master/tryitnowbutton_small.png" title="Click here to install this extension from the Chrome Web Store"></img></a>
+<a target="_blank" href="https://chrome.google.com/webstore/detail/ezurl2qr/degmoeploiddfcgeoeobihjbchfnjlmp"><img alt="Try it now" src="https://raw.github.com/ruwanka/EzURL2QR/master/ChromeWebStore_Badge_v2_206x58.png.png" title="Click here to install this extension from the Chrome Web Store"></img></a>
